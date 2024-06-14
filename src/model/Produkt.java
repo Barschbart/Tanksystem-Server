@@ -1,9 +1,9 @@
 package model;
 
-import jakarta.persistence.Entity;
+import jakarta.persistence.*;
 
-import javax.persistence.*;
 import java.util.Set;
+
 
 @Entity
 public class Produkt {
